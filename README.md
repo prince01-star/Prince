@@ -1,8 +1,7 @@
 # Prince Kumar 
 
 ## 👨‍💼 About Me
-I am a highly motivated **Business Analytics graduate** with strong analytical and problem-solving skills.  
-I work extensively with **Python, SQL, Power BI, and Excel** to perform EDA, build dashboards, automate reporting, and deliver actionable insights. My focus is to help organizations drive **data-driven decision-making** and improve business performance.
+I am a highly motivated **Business Analytics graduate** with strong analytical and problem-solving skills. I work extensively with **Python, SQL, Power BI, and Excel** to perform EDA, build dashboards, automate reporting, and deliver actionable insights. My focus is to help organizations drive **data-driven decision-making** and improve business performance.
 
 ---
 
