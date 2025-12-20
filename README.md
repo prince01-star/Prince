@@ -83,8 +83,9 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 
 ## 🎓 Certifications
 - **Microsoft PL-300** — Power BI Data Analyst Associate  
-- SAS Enterprise Guide 1 — Querying & Reporting  
-- SAS Visual Analytics 1 & 2 (Badge Earned)  
+- Machine Learning Using SAS Viya (Badge Earned)
+- SAS Visual Analytics 1(Basics) & 2(Advanced) (Badge Earned)
+- SAS Enterprise Guide 1 — Querying & Reporting (Badge Earned)   
 - Business Intelligence Fundamentals — Simplilearn  
 
 ---
@@ -106,11 +107,11 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 
 ## 🌐 Connect With Me
 - **LinkedIn:** Prince Kumar  
-- **Email:** princekrsavera03@gmail.com  
+- **Email:** princekrsavera01@gmail.com  
 - **Phone:** +91-6207949960  
 
 ---
 
 Thank you for visiting my portfolio!  
 Feel free to explore my projects or reach out for collaboration.
-# Prince
+# Prince Kumar
