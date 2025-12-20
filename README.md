@@ -58,15 +58,12 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 
 ---
 
-### ⭐ Sales Report Dashboard — *Power BI*
-- Built a **star schema** data model and cleaned raw data.  
-- Dashboard revealed key insights:  
-  - **Total Sales:** $65.48M  
-  - **Profit:** $17.74M  
-  - **Transactions:** 536K  
-  - **Customers:** 282.6K  
-- Found that high-priced products contributed **56%+** of total revenue.  
-- Identified seasonal patterns influencing business strategy.
+### ⭐ Superstore Sales & Marketing Performance Dashboard — Power BI
+- Built an **end-to-end Power BI executive dashboard** analyzing sales, profitability, customer segments, discount impact, and shipping performance using Superstore data.
+- Designed a **star-schema data model** with a custom Calendar table and developed **15+ DAX measures** including Profit Margin %, Sales YoY %, and running totals for time-based analysis.
+- Identified **profit leakage caused by excessive discounting** in specific sub-categories (e.g., Tables, Bookcases) and delivered **region-wise and segment-wise insights** to support targeted marketing and pricing decisions.
+- 🔗 Dashboard Link
+👉 **[View Power BI Dashboard](https://github.com/your-username/Superstore-PowerBI-Analysis/blob/main/Superstore.pbix)**
 
 ---
 
