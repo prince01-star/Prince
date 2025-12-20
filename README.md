@@ -63,7 +63,7 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 - Designed a **star-schema data model** with a custom Calendar table and developed **15+ DAX measures** including Profit Margin %, Sales YoY %, and running totals for time-based analysis.
 - Identified **profit leakage caused by excessive discounting** in specific sub-categories (e.g., Tables, Bookcases) and delivered **region-wise and segment-wise insights** to support targeted marketing and pricing decisions.
 - 🔗 Dashboard Link
-👉 **[View Power BI Dashboard](https://github.com/your-username/Superstore-PowerBI-Analysis/blob/main/Superstore.pbix)**
+👉 **[View Power BI Dashboard](https://github.com/prince01-star/Superstore-PowerBI-Analysis/blob/main/Superstore.pbix)**
 
 ---
 
