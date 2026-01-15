@@ -42,12 +42,13 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 
 ## 📚 Projects
 
-### ⭐ Amazon Sales Report Dashboard — *Python | Power BI*
-- Cleaned and transformed **100K+ sales records** using Python.  
-- Built an interactive Power BI dashboard showcasing key KPIs.  
-- Identified **₹83.6M total sales**, with weekends generating **15% higher sales**.  
+### ⭐ Customer Churn Analysis & Prediction  — *Python | Power BI*
+- **Built an end-to-end churn analytics solution** using Power BI and Python by analyzing 7,000+ telecom customer records,      delivering interactive dashboards  of churn.  
+- **Developed a machine learning churn prediction model (Logistic Regression)** in Python using tenure, pricing, contract      type, and service features to generate customer-level churn probabilities, enabling identification of high-risk, medium-     risk, and low-risk customer segments.  
+- **Delivered data-driven marketing and retention insights** by integrating ML predictions into Power BI, recommending targeted contract upgrades to reduce churn and improve customer retention.  
 - **Skills:** Data Cleaning, KPI Development, DAX, Visualization.
-
+- Link **[View](https://github.com/prince01-star/Churn-Analysis-Power-BI-Python-Project)**
+  
 ---
 
 ### ⭐ Pizza Sales Report Dashboard — *SQL | Power BI*
@@ -78,8 +79,9 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 ---
 
 ## 🎓 Certifications
-- **Microsoft PL-300** — Power BI Data Analyst Associate  
-- Machine Learning Using SAS Viya (Badge Earned)
+- **Microsoft PL-300** — Power BI Data Analyst Associate
+- **Microsoft DP-900** — Azure Data Fundamentals
+- **SAS Certified Specialist** — Machine Learning Using SAS Viya 
 - SAS Visual Analytics 1(Basics) & 2(Advanced) (Badge Earned)
 - SAS Enterprise Guide 1 — Querying & Reporting (Badge Earned)   
 - Business Intelligence Fundamentals — Simplilearn  
