@@ -54,16 +54,15 @@ I am a highly motivated **Business Analytics graduate** with strong analytical a
 - Used SQL to compute KPIs such as revenue, orders, AOV, and pizzas sold.  
 - Designed Power BI dashboard showing sales trends and category performance.  
 - Found **$817K total revenue**, with Classic Large pizzas leading sales.  
-- Highest order volumes occurred on weekend evenings.
-
+- Highest order volumes occurred on weekend evenings.  
+- Link **[View](https://github.com/prince01-star/Pizza-Sales-Business-Analysis)**
 ---
 
 ### ⭐ Superstore Sales & Marketing Performance Dashboard — Power BI
 - Built an **end-to-end Power BI executive dashboard** analyzing sales, profitability, customer segments, discount impact, and shipping performance using Superstore data.
 - Designed a **star-schema data model** with a custom Calendar table and developed **15+ DAX measures** including Profit Margin %, Sales YoY %, and running totals for time-based analysis.
 - Identified **profit leakage caused by excessive discounting** in specific sub-categories (e.g., Tables, Bookcases) and delivered **region-wise and segment-wise insights** to support targeted marketing and pricing decisions.
-- 🔗 Dashboard Link
-👉 **[View Power BI Dashboard](https://github.com/prince01-star/Superstore-PowerBI-Analysis/blob/main/Superstore.pbix)**
+- Link **[View](https://github.com/prince01-star/Superstore-PowerBI-Analysis)**
 
 ---
 
